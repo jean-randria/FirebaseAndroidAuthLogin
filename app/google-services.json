@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1097691719551",
+    "firebase_url": "https://fir-androidauthlogin.firebaseio.com",
+    "project_id": "fir-androidauthlogin",
+    "storage_bucket": "fir-androidauthlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097691719551:android:19bfbb4085de51f9",
+        "android_client_info": {
+          "package_name": "com.droid.firebaseandroidauthlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097691719551-o2cl4mu2hpoafnj7qu9d23gnh6s1is0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgx_TSnh_XUQCf38YezjnZgux54fIOwPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
